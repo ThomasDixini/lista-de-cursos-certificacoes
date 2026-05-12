@@ -1,6 +1,6 @@
 # Minha vida acadêmica :white_check_mark:
 
-Repositório reservado para listar um pouco da minha `vida acadêmica.` :heart_eyes:
+Repositório reservado para listar um pouco da minha `vida acadêmica.`
 
 > 🇺🇸 [English version here](README.en.md)
 
